@@ -5,8 +5,8 @@ body{
     font-family: arial;
     font-size: 16px;
     margin: 0;
-    background: linear-gradient(to right top, #0ecae8, #0ee894);
-    min-height: 100vh;
+    background: linear-gradient(to right top, #0a0a0a, #030303);
+    min-height: 50vh;
 }
 
 .search_select_box{
@@ -17,8 +17,8 @@ body{
 width: 100%;
 }
 .search_select_box button{
-    background-color: #080342 !important ;
+    background-color: #f1f1f7 !important ;
     padding: 15px 25px;
-    color: #fff !important;
+    color: rgb(255, 7, 7) !important;
     font-size: 20px;
 }
